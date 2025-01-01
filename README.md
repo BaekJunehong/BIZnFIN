@@ -59,11 +59,12 @@ DAT 학회활동동안 주 1회 총 5번의 과제를 해결
 각 군집별 변수로 부실기업 위험도를 평가하여,      
 단순한 부실여부 예측을 넘어 기업 부실에 영향을 미치는 주요 요인을 제시       
 
+결과적으로 딥러닝 기반 예측 모델의 유용성을 입증함과 동시에    
+기업 부실 예방을 위한 의사결정 지원 가능성을 제안함      
+
+
 ![image](https://github.com/user-attachments/assets/ea90d5d7-bfbb-4a8e-9ade-0ae1a69136a9)  
 ![image](https://github.com/user-attachments/assets/76f3d4b3-d009-4e45-ba59-2ca3923c1a3b) 
-
-결과적으로 딥러닝 기반 예측 모델의 유용성을 입증함과 동시에    
-기업 부실 예방을 위한 의사결정 지원 가능성을 제안       
 
 
 
