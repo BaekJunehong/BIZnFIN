@@ -32,7 +32,7 @@ DAT 학회활동동안 주 1회 총 5번의 과제를 해결
 
 ---
       
-### project 세부내용  
+### 프로젝트 세부내용  
 
 기업 부실화가 기업과 국가 경제에 미치는 부정적 영향을 고려하여,    
 딥러닝 모델을 활용한 한계기업 예측의 성능을 분석    
@@ -41,8 +41,15 @@ DAT 학회활동동안 주 1회 총 5번의 과제를 해결
 외부감사 대상기업의 재무비율 데이터를 활용하였으며,    
 데이터 전처리와 변수 선정 과정을 수행   
 
+![image](https://github.com/user-attachments/assets/256fb826-de6d-46fc-a16b-760cb1031ff2)
+![image](https://github.com/user-attachments/assets/5317d7a9-9b9c-4641-bdca-2126a9db7f5d)
+![image](https://github.com/user-attachments/assets/c4a0a215-62c6-4393-a3cf-28048fb031dc)
+![image](https://github.com/user-attachments/assets/d47cbaaf-95ee-4472-b2f2-3e824eeca966)
+
 분석에는 MLP, CNN, LSTM, GRU 모델을 적용하였으며,    
 성능 평가는 정확도와 F1-Score를 기준으로 진행    
+
+![image](https://github.com/user-attachments/assets/7aa12800-87ee-42ba-beea-3819fcfc8a36)
 
 그 결과, 은닉층 2개(노드 64개)로 구성된 GRU 모델이      
 가장 우수한 성능을 보였으며, 예측확률을 기준으로    
@@ -52,14 +59,13 @@ DAT 학회활동동안 주 1회 총 5번의 과제를 해결
 각 군집별 변수로 부실기업 위험도를 평가하여,      
 단순한 부실여부 예측을 넘어 기업 부실에 영향을 미치는 주요 요인을 제시       
 
-결과적으로 딥러닝 기반 예측 모델의 유용성을 입증함과 동시에    
-기업 부실 예방을 위한 의사결정 지원 가능성을 제안     
-
-![image](https://github.com/user-attachments/assets/256fb826-de6d-46fc-a16b-760cb1031ff2)
-![image](https://github.com/user-attachments/assets/5317d7a9-9b9c-4641-bdca-2126a9db7f5d)
-![image](https://github.com/user-attachments/assets/c4a0a215-62c6-4393-a3cf-28048fb031dc)
-![image](https://github.com/user-attachments/assets/d47cbaaf-95ee-4472-b2f2-3e824eeca966)
-![image](https://github.com/user-attachments/assets/7aa12800-87ee-42ba-beea-3819fcfc8a36)
 ![image](https://github.com/user-attachments/assets/ea90d5d7-bfbb-4a8e-9ade-0ae1a69136a9)  
-![image](https://github.com/user-attachments/assets/76f3d4b3-d009-4e45-ba59-2ca3923c1a3b)  
+![image](https://github.com/user-attachments/assets/76f3d4b3-d009-4e45-ba59-2ca3923c1a3b) 
+
+결과적으로 딥러닝 기반 예측 모델의 유용성을 입증함과 동시에    
+기업 부실 예방을 위한 의사결정 지원 가능성을 제안       
+
+
+
+ 
 
