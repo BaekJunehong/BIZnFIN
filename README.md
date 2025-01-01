@@ -49,11 +49,11 @@ DAT 학회활동동안 주 1회 총 5번의 과제를 해결
 분석에는 MLP, CNN, LSTM, GRU 모델을 적용하였으며,    
 성능 평가는 정확도와 F1-Score를 기준으로 진행    
 
-![image](https://github.com/user-attachments/assets/7aa12800-87ee-42ba-beea-3819fcfc8a36)
-
 그 결과, 은닉층 2개(노드 64개)로 구성된 GRU 모델이      
 가장 우수한 성능을 보였으며, 예측확률을 기준으로    
 기업을 안전(0.18 미만), 위험(0.18 이상), 매우 위험(0.6 이상)으로 분류    
+
+![image](https://github.com/user-attachments/assets/7aa12800-87ee-42ba-beea-3819fcfc8a36)
 
 아울러, 재무비율을 특성에 따라 군집화하고      
 각 군집별 변수로 부실기업 위험도를 평가하여,      
